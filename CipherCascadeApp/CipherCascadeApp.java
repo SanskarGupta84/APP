@@ -1019,7 +1019,7 @@ public class CipherCascadeApp extends JFrame {
             
             // Show startup dialog
             JOptionPane.showMessageDialog(null, 
-                "Welcome to CipherCascade!\n\n" +
+                "Welcome to CipherCascade: A Multi-Encryption Framework!\n\n" +
                 "DATABASE SETUP:\n" +
                 "1. Ensure MySQL/MariaDB is running\n" +
                 "2. Create database: CREATE DATABASE cipherdb;\n" +
